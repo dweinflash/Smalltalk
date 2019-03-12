@@ -1,25 +1,37 @@
-Pharo Project Page: https://pharo.org/web
+Websites:
+
+Pharo Project Page
+https://pharo.org/web
+
+Smalltalk - Learn X in Y Minutes
+https://learnxinyminutes.com/docs/smalltalk
 
 Community:
-Pharo discord: https://discord.gg/QewZMZa
-Although other communitties are alive and well, the official project community page has many
+
+Pharo Discord
+https://discord.gg/QewZMZa
+
+Although other communities are alive and well, the official project community page has many
 useful links https://pharo.org/community
 
 Books:
 
+Hard Copies checked out from UA Library:
 Hunt, J. (1997). Smalltalk and object-orientation : An introduction. London ; New York: Springer. (available at UA library in print or online)
+Winston, Patrick Henry (1998). On to Smalltalk. Reading, Massachusetts: Addison-Wesley. (available at UA library in print or online)
 
-
+Online Versions available at UA Online:
 Bergel, A., Cassou, Ducasse, Laval, & Open Textbook Library. (2013). Deep into Pharo. [Kehrsatz] Switzerland: Square Bracket Associates. (ua online)
-
 Black, A., Ducasse, Nierstrasz, Pollet, Cassou, Denker, & Open Textbook Library. (2009). Pharo by example. [Kehrsatz] Switzerland: Square Bracket Associates. (ua online)
 
+Reference Manual:
 
-Web Development Framework in Smalltalk(Pharo)
+Web Development Framework in Smalltalk (Pharo)
 Seaside: https://github.com/seasidest/seaside
+
+GNU Smalltalk Manual
+https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html
 
 Source code repository:
 
 https://github.com/pharo-project/pharo
-
-
