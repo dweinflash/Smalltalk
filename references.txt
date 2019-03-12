@@ -15,6 +15,9 @@ Bergel, A., Cassou, Ducasse, Laval, & Open Textbook Library. (2013). Deep into P
 Black, A., Ducasse, Nierstrasz, Pollet, Cassou, Denker, & Open Textbook Library. (2009). Pharo by example. [Kehrsatz] Switzerland: Square Bracket Associates. (ua online)
 
 
+Web Development Framework in Smalltalk(Pharo)
+Seaside: https://github.com/seasidest/seaside
+
 Source code repository:
 
 https://github.com/pharo-project/pharo
