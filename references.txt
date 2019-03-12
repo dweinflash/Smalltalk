@@ -1,0 +1,22 @@
+Pharo Project Page: https://pharo.org/web
+
+Community:
+Pharo discord: https://discord.gg/QewZMZa
+Although other communitties are alive and well, the official project community page has many
+useful links https://pharo.org/community
+
+Books:
+
+Hunt, J. (1997). Smalltalk and object-orientation : An introduction. London ; New York: Springer. (available at UA library in print or online)
+
+
+Bergel, A., Cassou, Ducasse, Laval, & Open Textbook Library. (2013). Deep into Pharo. [Kehrsatz] Switzerland: Square Bracket Associates. (ua online)
+
+Black, A., Ducasse, Nierstrasz, Pollet, Cassou, Denker, & Open Textbook Library. (2009). Pharo by example. [Kehrsatz] Switzerland: Square Bracket Associates. (ua online)
+
+
+Source code repository:
+
+https://github.com/pharo-project/pharo
+
+
