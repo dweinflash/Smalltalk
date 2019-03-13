@@ -7,13 +7,15 @@ should have a line of code to run the program. Optionally, the code can be run w
 
 Installing pharo:
 
+    make install 
+
+
 Installing pharo will create two executable scripts in the directory, 'pharo' which will allow you to run the st scripts
-from the command line
-    make pharo
+from the command line and 'pharo-ui' which will start the VM containing the live code snippets. 
 
-*note this will add the executable to the current working directory, as well as some Pharo images for running the code*
+Pharo can be deleted from the directory with:
 
-There are two code snippets in this directory, as well as their associated images.
+    make clean
 
 Hello World can be run with the command
 
