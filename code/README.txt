@@ -21,4 +21,7 @@ Hello World can be run with the command
 
     make run-hello-world
 
+The Hello World code can be inspected by running
+
+    make inspect-hello-world
 
