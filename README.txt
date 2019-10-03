@@ -1,3 +1,6 @@
+# Smalltalk Program
+Battleship game developed in Smalltalk located in Program folder
+
 # cs372 Project repository
 Authors: Leland Boeman & David Weinflash
 
